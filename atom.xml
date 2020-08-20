@@ -6,7 +6,7 @@
   <link href="https://drlee00.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://drlee00.gitee.io/"/>
-  <updated>2020-08-20T15:32:22.484Z</updated>
+  <updated>2020-08-20T15:41:25.852Z</updated>
   <id>https://drlee00.gitee.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>gitee 部署博客</title>
+    <title>hexo添加图片</title>
+    <link href="https://drlee00.gitee.io/2020/08/20/blogImage/"/>
+    <id>https://drlee00.gitee.io/2020/08/20/blogImage/</id>
+    <published>2020-08-20T15:37:32.986Z</published>
+    <updated>2020-08-20T15:41:25.852Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;安装插件&quot;&gt;&lt;a href=&quot;#安装插件&quot; class=&quot;headerlink&quot; title=&quot;安装插件&quot;&gt;&lt;/a&gt;安装插件&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+    <category term="blog" scheme="https://drlee00.gitee.io/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo 部署blog</title>
     <link href="https://drlee00.gitee.io/2020/08/20/blog/"/>
     <id>https://drlee00.gitee.io/2020/08/20/blog/</id>
     <published>2020-08-20T15:21:48.272Z</published>
-    <updated>2020-08-20T15:32:22.484Z</updated>
+    <updated>2020-08-20T15:40:08.742Z</updated>
     
     
       
@@ -35,6 +58,8 @@
     
     
     
+    
+    <category term="blog" scheme="https://drlee00.gitee.io/tags/blog/"/>
     
   </entry>
   
