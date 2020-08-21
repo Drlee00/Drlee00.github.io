@@ -6,7 +6,7 @@
   <link href="https://drlee00.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://drlee00.gitee.io/"/>
-  <updated>2020-08-21T01:45:50.595Z</updated>
+  <updated>2020-08-21T17:02:40.877Z</updated>
   <id>https://drlee00.gitee.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>指针</title>
+    <link href="https://drlee00.gitee.io/2020/08/21/pointer/"/>
+    <id>https://drlee00.gitee.io/2020/08/21/pointer/</id>
+    <published>2020-08-21T12:03:53.406Z</published>
+    <updated>2020-08-21T17:02:40.877Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;指针常量与常量指针&quot;&gt;&lt;a href=&quot;#指针常量与常量指针&quot; class=&quot;headerlink&quot; title=&quot;指针常量与常量指针&quot;&gt;&lt;/a&gt;指针常量与常量指针&lt;/h2&gt;&lt;h3 id=&quot;指针常量&quot;&gt;&lt;a href=&quot;#指针常量&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="c++" scheme="https://drlee00.gitee.io/tags/c/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo添加图片</title>
